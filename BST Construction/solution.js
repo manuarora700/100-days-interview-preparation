@@ -121,3 +121,5 @@ tree.insert(18);
 
 tree.delete(15);
 tree.traverse();
+
+export default BST;
