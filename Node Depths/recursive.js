@@ -10,6 +10,7 @@ class BinaryTree {
   }
 }
 
+//  Time: O(N) - where N is the number of nodes in the tree
 const nodeDepths = (tree, depth = 0) => {
   if (!tree) return 0;
   return (

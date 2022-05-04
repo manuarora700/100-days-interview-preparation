@@ -10,6 +10,7 @@ class BinaryTree {
   }
 }
 
+// TIME: O(N) - where N is the number of nodes in the tree
 const nodeDepths = (tree, depth = 0) => {
   let stack = [{ node: tree, depth: depth }];
   let sumOfDepths = 0;
