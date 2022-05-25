@@ -1,4 +1,4 @@
-# 100 days of Problem Solving for Tech Interviews
+# 💯 days of Problem Solving for Tech Interviews
 
 <img src="https://github.com/manuarora700/100-days-interview-preparation/blob/main/_static/Screenshot%202022-05-26%20at%202.15.18%20AM.png" alt="landing" />
 
